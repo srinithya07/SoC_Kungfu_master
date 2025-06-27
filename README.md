@@ -74,7 +74,7 @@ Based on the current run, the least effective algorithm is: UCB (Regret = 22.10)
 - README.md
 - submission.csv
 - problem.ipynb
-- 
+- main.py
 
 
 
