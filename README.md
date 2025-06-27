@@ -71,7 +71,10 @@ Based on the current run, the least effective algorithm is: UCB (Regret = 22.10)
 - Hands-on with regret analysis and evaluation of online learning strategies.
 
 ## Files Included
-
+- README.md
+- submission.csv
+- problem.ipynb
+- 
 
 
 
